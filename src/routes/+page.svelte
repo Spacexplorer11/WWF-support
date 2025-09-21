@@ -2,7 +2,7 @@
 	import Typewriter from "svelte-typewriter";
 </script>
 
-<div class="@container my-2 flex min-h-screen min-w-full flex-col" id="content">
+<div class="@container my-2 flex min-h-screen min-w-full flex-col">
 	<Typewriter mode="cascade" cursor={false}>
 		<header class="text-center">
 			<h1 class="mt-5"><span class="text-4xl text-green md:text-5xl">Support for WWF</span></h1>
@@ -14,13 +14,3 @@
 		</header>
 	</Typewriter>
 </div>
-
-<style>
-	#content {
-		background-image: url("/images/panda-bg.webp");
-		background-repeat: no-repeat;
-		background-size: 100vh auto;
-		background-attachment: fixed;
-		background-position: center;
-	}
-</style>
