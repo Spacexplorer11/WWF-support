@@ -10,11 +10,12 @@
 	--color-yellow: #e9d985;
 }
 
-html, body {
-    background-image: url("images/panda-bg.webp");
-    background-repeat: no-repeat;
-    background-size: 100vh auto;
-    background-attachment: fixed;
-    background-position: center;
-    background-color: #bcd8c1;
+html,
+body {
+	background-image: url("images/panda-bg.webp");
+	background-repeat: no-repeat;
+	background-size: 100vh auto;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: #bcd8c1;
 }
