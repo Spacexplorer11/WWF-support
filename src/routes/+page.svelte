@@ -1,5 +1,6 @@
 <script>
 	import Typewriter from "svelte-typewriter";
+	import { goto } from "$app/navigation";
 </script>
 
 <div class="@container my-2 flex min-h-screen min-w-full flex-col">
@@ -12,5 +13,17 @@
 				>
 			</h2>
 		</header>
+		<div class="@container/buttons flex w-full flex-row">
+			<button
+				onclick={goto("/WWF-work")}
+				class="m-2 w-1/2 rounded-xl bg-green/80 p-2 text-2xl text-dark-blue hover:bg-green/100 md:text-3xl"
+			>
+				What the WWF does
+			</button>
+			<!-- <button onclick="{goto('/WWF-support')}" class="m-2 w-1/2 rounded-xl bg-green/80 p-2 text-2xl text-dark-blue hover:bg-green/100 md:text-3xl">
+				How we can support
+			</button>
+			-->
+		</div>
 	</Typewriter>
 </div>
