@@ -16,13 +16,3 @@
 <div id="bg">
 	{@render children?.()}
 </div>
-
-<style>
-	#bg {
-		background-image: url("/images/panda-bg.webp");
-		background-repeat: no-repeat;
-		background-size: 100vh auto;
-		background-attachment: fixed;
-		background-position: center;
-	}
-</style>
