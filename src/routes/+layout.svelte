@@ -10,9 +10,21 @@
 	<link rel="shortcut icon" href="/favicons/favicon.ico" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
 	<link rel="manifest" href="/favicons/site.webmanifest" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap" rel="stylesheet">
 	<title>WWF Support</title>
 </svelte:head>
 
-<div id="bg">
+<div class="national-park">
 	{@render children?.()}
 </div>
+
+<style>
+	.national-park {
+		                font-family: "National Park", sans-serif;
+		                font-optical-sizing: auto;
+		                font-weight: 600;
+		                font-style: normal;
+	                }
+</style>
