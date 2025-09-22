@@ -12,7 +12,7 @@
 
 html,
 body {
-	background-image: url("images/panda-bg.webp");
+	background-image: url("/images/panda-bg.webp");
 	background-repeat: no-repeat;
 	background-size: 100vh auto;
 	background-attachment: fixed;
