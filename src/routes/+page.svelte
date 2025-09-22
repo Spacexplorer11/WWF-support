@@ -20,7 +20,7 @@
 			>
 				What the WWF does
 			</button>
-			<!-- <button onclick="{goto('/WWF-support')}" class="m-2 w-1/2 rounded-xl bg-green/80 p-2 text-2xl text-dark-blue hover:bg-green/100 md:text-3xl">
+			<button onclick="{goto('/WWF-support')}" class="m-2 w-1/2 rounded-xl bg-green/80 p-2 text-2xl text-dark-blue hover:bg-green/100 md:text-3xl">
 				How we can support
 			</button>
 			-->
