@@ -44,7 +44,7 @@
 					>Donate <a
 						href="https://support.wwf.org.uk/donate-to-wwf"
 						class="text-dark-blue underline">here</a
-					>and fundraise
+					> and fundraise
 					<a href="https://support.wwf.org.uk/pay-in-fundraising" class="text-dark-blue underline"
 						>here</a
 					>
