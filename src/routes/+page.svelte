@@ -26,7 +26,6 @@
 			>
 				How we can support
 			</button>
-			-->
 		</div>
 	</Typewriter>
 </div>
