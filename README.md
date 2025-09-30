@@ -37,3 +37,6 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 -->
+
+# WWF
+**World Wildlife Fund** is an amazing charity and this website just intends to support them in my own words and design. Please check out their website [here](https://www.wwf.org)
