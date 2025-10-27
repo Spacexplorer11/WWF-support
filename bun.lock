@@ -5,7 +5,7 @@
       "name": "svelte-template",
       "dependencies": {
         "@lucide/svelte": "^0.546.0",
-        "lucide": "^0.546.0",
+        "lucide": "^0.548.0",
         "svelte-typewriter": "^3.2.3",
       },
       "devDependencies": {
@@ -261,7 +261,7 @@
 
     "locate-character": ["locate-character@3.0.0", "", {}, "sha512-SW13ws7BjaeJ6p7Q6CO2nchbYEc3X3J6WrmTTDto7yMPqVSZTUyY5Tjbid+Ab8gLnATtygYtiDIJGQRRn2ZOiA=="],
 
-    "lucide": ["lucide@0.546.0", "", {}, "sha512-YJES3MM/naQS4wJ0JLzTY3anooqWw5iTsPCffHbSMncdxJT2C5tmkCDAwIHMHG8TMtaQcu40KREMPss2qH/+yA=="],
+    "lucide": ["lucide@0.548.0", "", {}, "sha512-G9MtqYAKogbp23KCY+6jM/hQQLs9252z9IgmctZn2Fi95+ukR2jpXmUt4+y0q6bb9DrC+9P1jNymHLcyUgtapg=="],
 
     "magic-string": ["magic-string@0.30.19", "", { "dependencies": { "@jridgewell/sourcemap-codec": "^1.5.5" } }, "sha512-2N21sPY9Ws53PZvsEpVtNuSW+ScYbQdp4b9qUaL+9QkHUrGFKo56Lg9Emg5s9V/qrtNBmiR01sYhUOwu3H+VOw=="],
 
